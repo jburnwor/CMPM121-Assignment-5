@@ -9,3 +9,6 @@ https://assetstore.unity.com/packages/3d/animations/warrior-pack-bundle-1-free-3
 Controls:
 WASD to move
 QE to rotate
+
+
+Something Extra: Implement a Title Screen with Unity UI that you start on and you return to upon picking up all collectibles
